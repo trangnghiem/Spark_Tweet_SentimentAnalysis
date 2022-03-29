@@ -1,0 +1,3 @@
+#!d:\0-data science\projets\spark\tweet_sentiment_analysis\spark_deploy_2\scripts\python.exe
+from spark import spark_admin
+spark_admin.main()
